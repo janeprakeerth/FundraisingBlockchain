@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = ()=>{
   const productList = ["Market","ERC20 Token","Donation"]
-  const contactList = ["support@cryptoking.com","info@example.com","Contact us"];
+  const contactList = ["support@test.com","info@example.com","Contact us"];
   const usefullLink = ["Home","About Us","Company Bio"];
 
   return (
@@ -11,10 +11,10 @@ const Footer = ()=>{
         <div class = "grid-1 grid gap-8 md:grid-cols-2 lg:grid-cols-4">
           <div class = "">
             <h6 class="mb-4 flex items-center justify-center font-semibold uppercase md:justify-start">
-              Crypto King
+              Fundraising
             </h6>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, voluptatum facilis esse accusamus.
+              A Fundraising Platform for the startUps
             </p>
           </div>
           <div class="">
@@ -56,9 +56,9 @@ const Footer = ()=>{
         </div>
       </div>
       <div class = "backgroundMain p-6 text-center">
-        <span>©️ 2023 Copyright:</span>
+        <span>©️ 2024 Copyright : </span>
         <a class = "font-semibold " href = "https://tailwind-elements.com/">
-          Crypto King
+          Jane Prakeerth
         </a>
       </div>
     </footer>

@@ -29,11 +29,11 @@ const Hero = ({titleData,createCampaign})=>{
             <div className="flex flex-col items-center justify-between xl:flex-row">
               <div className="w-full max-w-xl mb-12 xl:mb-0 xl:pr-16 xl:w-7/12">
                 <h2 className="max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-white sm:text-5xl sm:leading-none">
-                  Crypto King <br className="hidden md:block"/>
-                  Crowd Funding CK
+                  Peer to Peer <br className="hidden md:block"/>
+                  FundRaising
                 </h2>
                 <p className="max-w-xl mb-4 text-base text-gray-200 md:text-lg">
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro soluta aut beatae asperiores ipsum minus reiciendis.
+                  A Comprehensive Fundraising Platform for startups where they can raise money and also people can trust as the funds are transferred only if the said goal is achieved or else they are reverted back to the user
 
                 </p>
                 <a href="/" aria-label = "" className="inline-flex items-center font-semibold tracking-wider transition-colors duration-200 text-teal-accent-400 hover:text-teal-accent-700 text-gray-200">
